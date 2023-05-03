@@ -8,8 +8,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to right, #d3cce3, #e9e4f0);
-    /* background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); */
+    /* background: linear-gradient(to right, #d3cce3, #e9e4f0); */
+    background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
     /* background: linear-gradient(to right, #000428, #004e92); */
 }
 
