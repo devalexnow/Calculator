@@ -4,10 +4,10 @@ const clearBtn = document.getElementById('clear-btn');
 
 // Calculate first and second values depending on operator
 const calculate = {
-    '/': (firstNumer, secondNumber) => firstNumer /secondNumber,
-    '*': (firstNumer, secondNumber) => firstNumer * secondNumber,
-    '+': (firstNumer, secondNumber) => firstNumer + secondNumber,
-    '-': (firstNumer, secondNumber) => firstNumer - secondNumber,
+    '/': (firstNumber, secondNumber) => firstNumber /secondNumber,
+    '*': (firstNumber, secondNumber) => firstNumber * secondNumber,
+    '+': (firstNumber, secondNumber) => firstNumber + secondNumber,
+    '-': (firstNumber, secondNumber) => firstNumber - secondNumber,
     '=': (firstNumer, secondNumber) => secondNumber,
 };
 
